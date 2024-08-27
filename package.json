@@ -8,8 +8,18 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "14.2.6",
-    "react": "18.3.1",
-    "react-dom": "18.3.1"
+    "@theme-ui/presets": "^0.16.2",
+    "body-parser": "^1.19.0",
+    "dotenv-load": "^2.0.1",
+    "next": "^14.2.6",
+    "next-connect": "^0.8.1",
+    "next-env": "^1.1.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "theme-ui": "^0.16.2"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.4",
+    "typescript": "^5.5.4"
   }
 }
